@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<h1>Hello Sathvik's Vaish</h1>
+<h2>Hello Sathvik's Vaish</h2>
+<h3>Hello Sathvik's Vaish</h3>
+<h4>Hello Sathvik's Vaish</h4>
+<h5>Hello Sathvik's Vaish</h5>
+<h6>Hello Sathvik's Vaish</h6>
+
+<br>
+br tag is used to break the row
+<br>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<h1>Hello Sathvik's Vaish</h1>
+<h2>Hello Sathvik's Vaish</h2>
+<h3>Hello Sathvik's Vaish</h3>
+<h4>Hello Sathvik's Vaish</h4>
+<h5>Hello Sathvik's Vaish</h5>
+<h6>Hello Sathvik's Vaish</h6>
+
+<br>
+br tag is used to break the row
+<br>
+
+<a href="https://www.google.com/search?q=sex&rlz=1C1YTUH_enIN980IN985&sxsrf=AJOqlzXpPzQbujiQv3_SI3O1xD29SR7dhQ:1675134740328&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjZuZeZ6_D8AhVx4HMBHRdEA4YQ_AUoAnoECAEQBA&biw=1536&bih=714&dpr=1.25#imgrc=Uy4_bEHuDnQi2M">Click here</a>
+</body>
+</html>
